@@ -1,6 +1,6 @@
-# React Native Camera update matching react-native up to 0.70.xx above
+# React Native Camera update matching react-native up to `0.70.xx` above
 
-### 🚧🚧 Looking for maintainers and backers 🚧🚧
+I forked from react-native-camera/react-native-camera then I modified this package to work with above `react-native@0.70.xx`
 
 See this [issue](https://github.com/react-native-community/react-native-camera/issues/3000)
 
